@@ -26,7 +26,7 @@ const Home = () => {
                 </button>
             </div>
          </div>
-         <div className='w-2/3 h-96 pb-16 '>
+         <div className='w-2/3 h-96 pb-60 '>
             <img src='rashid2.jpg' alt='my_profile' className='rounded-2xl mx-auto w-screen sm:h-2 md:w-full h-72'/>
          </div>
        </div>
