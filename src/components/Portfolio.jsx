@@ -32,8 +32,8 @@ const Portfolio = () => {
             <div className='shadow-md shadow-gray-600 rounded-lg flex flex-col justify-center items-center'>
                 <img src="pizza.png" alt='' className='rounded-md duration-200 hover:scale-105'/>
                 <div className='flex items-center justify-center'>
-                    <button className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'>Demo</button>
                     <button className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'><a href='pizza.png' target="_blank">Demo</a></button>
+                    <button className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'>Code</button>
                 </div>
             </div>
            

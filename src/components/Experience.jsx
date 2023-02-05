@@ -16,7 +16,8 @@ const Experience = () => {
           <p className='text-4xl font-bold inline border-b-4 border-gray-500 p-2'>Experience</p>
           <p className='py-6 '>There are the Technologies I've worked with</p>
         </div>
-        <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-8 px-12 py-8 sm-px-0 text-center'>
+        {/* <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-8 px-12 py-8 sm-px-0 text-center'> */}
+        <div className='w-full grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 py-8 sm-px-0 text-center'>
             <div className='shadow-md hover:scale-105 duration-500 py-2 flex flex-col justify-center items-center shadow-orange-500 rounded-lg'>
                 <img src="html.png" alt='' className=' w-20 mx-auto rounded-md duration-200 hover:scale-105'/>
                 <p className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'>HTML</p>
