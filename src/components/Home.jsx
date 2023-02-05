@@ -8,12 +8,12 @@ const Home = () => {
        <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
          <div className='flex flex-col justify-center h-full'>
             <h2 className='text-4xl sm:text-7xl font-bold text-white '>I'm a Front-End Developer</h2>
-            <p className='text-white'>
-            In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the 
+            <p className='text-white my-4'>
+            Hi my name is Rashid Pervaiz. In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the 
             visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used
             as a placeholder before final copy is available
             </p>
-            <div>
+            <div className='my-4'>
                 <button className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r
                 from-cyan-500 to-blue-500 cursor-pointer">
                 <Link to='portfolio' smooth duration={500}>
