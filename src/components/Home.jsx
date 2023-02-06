@@ -4,7 +4,7 @@ import { Link } from "react-scroll";
 import {FiArrowRight} from 'react-icons/fi'
 const Home = () => {
   return (
-    <div name="home" className='h-screen w-full bg-gradient-to-b from-black to-gray-800 pt-20'>
+    <div name="home" className='h-screen w-full bg-gradient-to-b from-black to-gray-800 pt-72'>
        <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
          <div className='flex flex-col justify-center h-full'>
             <h2 className='text-4xl sm:text-7xl font-bold text-white mb-6'>I'm a Front-End Developer</h2>
@@ -26,8 +26,8 @@ const Home = () => {
                 </button>
             </div>
          </div>
-         <div className='w-2/3 h-96 pb-60 '>
-            <img src='rashid2.jpg' alt='my_profile' className='rounded-2xl mx-auto w-screen sm:h-2 md:w-full h-72'/>
+         <div className='w-2/3 h-96 pb-60'>
+            <img src='rashid2.jpg' alt='my_profile' className='rounded-2xl mx-auto w-screen sm:h-96'/>
          </div>
        </div>
     </div>
