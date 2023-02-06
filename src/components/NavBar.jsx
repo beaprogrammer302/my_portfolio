@@ -50,7 +50,7 @@ const NavBar = () => {
         ))}
         <li className="px-3 py-1 cursor-pointer capitalize font-medium text-white hover:scale-105 duration-200 bg-gradient-to-r
                 from-cyan-500 to-blue-500 rounded">
-            <button><a href="resume.pdf" target="_blank">Resume</a></button>
+            <button><a href="Rashid resume.pdf" target="_blank">Resume</a></button>
         </li>
       </ul>
 
@@ -72,7 +72,7 @@ const NavBar = () => {
           ))}
           <li className="px-4 cursor-pointer capitalize py-3 text-4xl border border-emerald-50 rounded bg-gradient-to-r
                 from-cyan-500 to-blue-500 text-white">
-            <button><a href="resume.pdf" target="_blank">Resume</a></button>
+            <button><a href="Rashid resume.pdf" target="_blank">Resume</a></button>
         </li>
         </ul>
       )}

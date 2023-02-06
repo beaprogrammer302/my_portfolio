@@ -34,9 +34,8 @@ const About = () => {
                      <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
                  </div>
                  <p className='text-xl mt-5'>
-                 In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form 
-                 of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is 
-                 available
+                 I am a Computer Scientist who just graduated from <strong>UNIVERSITY OF LAHORE</strong> in Computer Science 
+                 I love to take on the challenges and then solve them. 
                  </p>
                  <br/>
                  <p>

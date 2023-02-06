@@ -17,6 +17,7 @@ const Portfolio = () => {
         <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm-px-0'>
             <div className='shadow-md shadow-gray-600 rounded-lg flex flex-col justify-center items-center'>
                 <img src="twitter.png" alt='' className='rounded-md duration-200 hover:scale-105'/>
+                {/* <div className='w-1/2 px-4 pt-2 m-4 duration-200 hover:scale-105'>Twitter Clone</div> */}
                 <div className='flex items-center justify-center'>
                     <button className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'><a href='twitter.png' target="_blank">Demo</a></button>
                     <button className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'>Code</button>
@@ -24,6 +25,7 @@ const Portfolio = () => {
             </div>
             <div className='shadow-md shadow-gray-600 rounded-lg flex flex-col justify-center items-center'>
                 <img src="google.png" alt='' className='rounded-md duration-200 hover:scale-105'/>
+                {/* <div className='w-1/2 px-4 pt-2 m-4 duration-200 hover:scale-105'>Google Clone</div> */}
                 <div className='flex items-center justify-center'>
                     <button className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'><a href='google.png' target="_blank">Demo</a></button>
                     <button className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'>Code</button>
@@ -31,6 +33,7 @@ const Portfolio = () => {
             </div>
             <div className='shadow-md shadow-gray-600 rounded-lg flex flex-col justify-center items-center'>
                 <img src="pizza.png" alt='' className='rounded-md duration-200 hover:scale-105'/>
+                {/* <div className='w-1/2 px-4 pt-2 m-4 duration-200 hover:scale-105'>Pizza Hut</div> */}
                 <div className='flex items-center justify-center'>
                     <button className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'><a href='pizza.png' target="_blank">Demo</a></button>
                     <button className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'>Code</button>
